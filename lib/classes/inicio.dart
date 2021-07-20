@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './Responsive/tamanos.dart';
+import './respon/tamanos.dart';
 
 class Inicio extends StatefulWidget {
   Inicio({Key? key}) : super(key: key);

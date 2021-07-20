@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsive/classes/inicio.dart';
+import './classes/inicio.dart';
 
 void main() { 
   runApp(MyApp());  
